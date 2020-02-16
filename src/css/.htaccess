@@ -1,0 +1,5 @@
+Deny From All
+
+<FilesMatch "^[^\s]+\.(css|txt|ttf)$">
+	Allow From All
+</FilesMatch>

@@ -1,0 +1,5 @@
+Deny From All
+
+<FilesMatch "^[^\s]+\.(js)$">
+	Allow From All
+</FilesMatch>
